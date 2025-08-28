@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+lazy_model/__init__.py
+lazy_model/core.py
+lazy_model.egg-info/PKG-INFO
+lazy_model.egg-info/SOURCES.txt
+lazy_model.egg-info/dependency_links.txt
+lazy_model.egg-info/requires.txt
+lazy_model.egg-info/top_level.txt

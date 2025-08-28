@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+lazybrains/__init__.py
+lazybrains/core.py
+lazybrains.egg-info/PKG-INFO
+lazybrains.egg-info/SOURCES.txt
+lazybrains.egg-info/dependency_links.txt
+lazybrains.egg-info/requires.txt
+lazybrains.egg-info/top_level.txt
